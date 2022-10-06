@@ -80,9 +80,10 @@ box-shadow: 0 0 10px white;
 
 .headings {
     font-family: century;
-    font-size: 3rem;
+    font-size: 80px;
     text-align: center;
     margin: 40px 0px;
+    color: #3c162e
 }
 
 .btn {
@@ -251,5 +252,5 @@ box-shadow: 0 0 10px white;
 .bottom-footer {
     background-color: #0b1016;
     min-height: 100px;
-    padding-top: 20;
+    padding-top: 5;
 }
