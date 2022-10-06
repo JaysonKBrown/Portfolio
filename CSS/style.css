@@ -67,6 +67,7 @@ box-shadow: 0 0 10px white;
 .slogan {
     font-size:80px;
     color: #5c162e;
+    padding-left: 60%;
 }
 .main {
     display: flex;
@@ -109,6 +110,14 @@ box-shadow: 0 0 10px white;
     box-sizing: border-box;
     padding: 150px;
     margin-bottom: 50px;
+}
+
+.nameBanner {
+    font-family: century;
+    font-size: 120px;
+    text-align: center;
+    margin: 40px 0px;
+    color: #3c162e
 }
 
 #pic{
