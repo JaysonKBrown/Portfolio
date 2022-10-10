@@ -66,8 +66,9 @@ box-shadow: 0 0 10px white;
 
 .slogan {
     font-size:80px;
-    color: #5c162e;
+    color: black;
     padding-left: 60%;
+    font-family: cursive;
 }
 .main {
     display: flex;
@@ -84,7 +85,14 @@ box-shadow: 0 0 10px white;
     font-size: 80px;
     text-align: center;
     margin: 40px 0px;
-    color: #3c162e
+    color: white;
+}
+
+.contact {
+    font-family: century;
+    font-size: 80px;
+    text-align: center;
+    margin: 40px 0px;
 }
 
 .btn {
@@ -161,8 +169,8 @@ box-shadow: 0 0 10px white;
 }
 
 .gallery img {
-    width: 360px;
-    height: 240px;
+    width: 400px;
+    height: 320px;
     margin: 10px;
 }
 
