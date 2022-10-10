@@ -68,7 +68,7 @@ box-shadow: 0 0 10px white;
     font-size:80px;
     color: black;
     padding-left: 60%;
-    font-family: cursive;
+    font-family: 'Edu QLD Beginner', cursive;
 }
 .main {
     display: flex;
@@ -118,10 +118,11 @@ box-shadow: 0 0 10px white;
     box-sizing: border-box;
     padding: 150px;
     margin-bottom: 50px;
+    font-family: 'Edu QLD Beginner', cursive;
 }
 
 .nameBanner {
-    font-family: century;
+    font-family: 'Edu QLD Beginner', cursive;
     font-size: 120px;
     text-align: center;
     margin: 40px 0px;
