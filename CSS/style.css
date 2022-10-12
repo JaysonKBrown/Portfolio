@@ -271,6 +271,6 @@ box-shadow: 0 0 10px white;
 
 .bottom-footer {
     background-color: #0b1016;
-    min-height: 100px;
-    padding-top: 5;
+    min-height: 50px;
+    padding-top: 5px;
 }
